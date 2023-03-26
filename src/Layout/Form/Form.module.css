@@ -1,0 +1,16 @@
+.xxx {
+  display: flex;
+  padding: 10px 10px;
+  font-size: 20px;
+}
+
+.xxx label {
+  margin-right: 20px;
+  width: 80px;
+}
+
+.xxx input {
+  border: 2px solid gray;
+  border-radius: 5px;
+  font-size: 20px;
+}

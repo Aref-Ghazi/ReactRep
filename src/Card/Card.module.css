@@ -1,0 +1,25 @@
+.cardwrapper {
+  /* display: flex;
+  flex-direction: column; */
+  text-align: left;
+  width: 200px;
+  gap: 20px;
+  margin: 4px;
+  padding: 10px;
+  color: black;
+  border: 2px solid gray;
+  border-radius: 10px;
+  position: relative;
+}
+.deleteButton {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  right: -10px;
+  top: -10px;
+  width: 22px;
+  background-color: red;
+  border-radius: 11px;
+  cursor: pointer;
+}

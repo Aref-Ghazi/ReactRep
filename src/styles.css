@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  margin-bottom: 20px;
+  display: inline-flex;
+  font-size: 16px;
+}
+
+.mainContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-direction: column;
+}
+.deleteButton {
+  background-color: indigo !important;
+}
+
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
